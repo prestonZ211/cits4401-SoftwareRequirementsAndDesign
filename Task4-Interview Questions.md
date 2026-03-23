@@ -1,6 +1,5 @@
 Stakeholder: Researcher
-Justification：
-This interview focuses on researchers as they are the primary users of the system and directly interact with the application and review process.Researchers are the primary users of the system and directly interact with the submission and review process. 
+Justification：This interview focuses on researchers as they are the primary users of the system and directly interact with the application and review process.Researchers are the primary users of the system and directly interact with the submission and review process. 
 
 Question 1: How do you currently prepare and submit ethics applications?
 Uncertainty: The current workflow is unclear and may vary between researchers.
